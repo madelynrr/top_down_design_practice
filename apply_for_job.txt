@@ -1,7 +1,17 @@
 Applying for a Job
 
 1. Find Jobs
+  1.1 Search job sites
+  1.2 List possible jobs
 2. Write Resume
+  2.1 Past Job Experience
+    2.1.1 List past Jobs
+      2.1.1.1 Put in chronological order
+  2.2 Schooling
+  2.3 Awards
+  2.4 Other Experience
+  2.5 References
+  2.6 Edit
 3. Write Cover Letter
 4. Submit Application
 5. Prepare for Interview
